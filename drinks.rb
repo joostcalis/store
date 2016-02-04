@@ -1,0 +1,2 @@
+class Drinks < Products
+end

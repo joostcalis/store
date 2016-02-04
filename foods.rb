@@ -1,0 +1,2 @@
+class Foods < Products
+end
